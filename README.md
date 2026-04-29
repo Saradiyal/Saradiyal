@@ -22,18 +22,32 @@
 * 📊 AI-powered tools for business automation
 * 🌾 Smart systems for agriculture (Sri Lanka-focused)
 
-🧩 Tech & Interests
+## 🧩 Tech Stack
 
+### 🍎 Apple Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=swift,apple" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saradiyal&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saradiyal&theme=github-dark&hide_border=true" />
+### ⚙️ Core Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,nextjs" />
 </p>
 
-I’m not here to just write code.
-I’m here to build systems that think ;)
+### 🧠 AI & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/n8n-AI%20Automation-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-Analysis-orange?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</
