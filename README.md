@@ -22,10 +22,16 @@
 ---
 
 ## ⚒️ Current Focus
-- 🧠 Project UB – personal AI assistant (JARVIS-style system)  
+- 🧠 Project Orbit – personal AI assistant (JARVIS-style system)  
 - 📊 AI-powered automation tools for business workflows  
 - 🌾 Smart agricultural systems for Sri Lanka  
 - 🍎 Apple ecosystem development (iOS/macOS applications)  
+
+<p align="left">
+  <a href="https://www.ublabs.studio">
+    <img src="https://img.shields.io/badge/UB%20Labs-Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
