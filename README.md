@@ -15,23 +15,21 @@
 ## 🧠 About Me
 - 🚀 Software Engineering student  
 - 🤖 Focused on AI, Machine Learning & intelligent systems  
-- 🍎 Building within the Apple ecosystem (iOS / macOS development)  
-- ⚙️ Interested in real-world systems, automation & scalable software  
-- 🌾 Exploring tech solutions for agriculture & impact-driven engineering  
+- 🍎 Apple ecosystem developer (iOS / macOS)  
+- ⚙️ Building real-world systems, automation & scalable software  
+- 🌾 Exploring tech solutions for agriculture  
 
 ---
 
-## ⚒️ Current Focus
-- 🧠 Project Orbit – personal AI assistant (JARVIS-style system)  
-- 📊 AI-powered automation tools for business workflows  
-- 🌾 Smart agricultural systems for Sri Lanka  
-- 🍎 Apple ecosystem development (iOS/macOS applications)  
+## 🌐 UB Labs
+🚀 Personal web & app design studio  
 
-<p align="left">
-  <a href="https://www.ublabs.studio">
-    <img src="https://img.shields.io/badge/UB%20Labs-Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🔗 https://www.ublabs.studio  
+
+- 🧩 Web apps & dashboards  
+- 🎨 UI/UX systems  
+- ⚙️ Full-stack builds  
+- 📱 Startup-style landing pages  
 
 ---
 
@@ -39,35 +37,47 @@
 
 ### 🍎 Apple Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
 </p>
 
 ### ⚙️ Core Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
 </p>
 
 ### 🧠 AI & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
 </p>
 
-### 📊 Data & Engineering
+### 🎨 Design & 3D
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40"/>
 </p>
 
 ### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" height="40"/>
 </p>
 
 ---
@@ -81,8 +91,12 @@
 
 ---
 
-## 📫 Contact
-📧 umegharatnayake@hotmail.com  
+## 🤝 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/umegharatnayake/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+  </a>
+</p>
 
 ---
 
