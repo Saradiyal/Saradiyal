@@ -50,7 +50,7 @@
 ### 🗄️ Databases & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### 🛠️ Tools
