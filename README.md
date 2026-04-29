@@ -15,16 +15,17 @@
 ## 🧠 About Me
 - 🚀 Software Engineering student  
 - 🤖 Focused on AI, Machine Learning & intelligent systems  
-- ⚙️ Interested in building real-world systems (software + automation + mechatronics)  
-- 🌾 Exploring tech solutions for agriculture and practical impact in Sri Lanka  
+- 🍎 Building within the Apple ecosystem (iOS / macOS development)  
+- ⚙️ Interested in real-world systems, automation & scalable software  
+- 🌾 Exploring tech solutions for agriculture & impact-driven engineering  
 
 ---
 
 ## ⚒️ Current Focus
 - 🧠 Project UB – personal AI assistant (JARVIS-style system)  
 - 📊 AI-powered automation tools for business workflows  
-- 🌾 Smart agricultural tech systems  
-- 🍎 Apple ecosystem development (iOS/macOS)
+- 🌾 Smart agricultural systems for Sri Lanka  
+- 🍎 Apple ecosystem development (iOS/macOS applications)  
 
 ---
 
@@ -40,22 +41,27 @@
   <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,nextjs" />
 </p>
 
-### 🧠 AI & Automation
+### 🧠 AI & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-Analysis-0076A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
+
+### 📊 Data & Engineering
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 </p>
 
-### 🛠️ Tools
+### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git,docker" />
 </p>
 
 ---
