@@ -1,8 +1,10 @@
-<h1 align="center">Umegha</h1>
-
 <p align="center">
-  <i>Building intelligent systems, not just apps.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,100:1a1a1a&height=200&section=header&text=Umegha&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligent%20Systems&descAlignY=55&descAlign=50"/>
 </p>
+
+---
+
+<h3 align="center">Building intelligent systems, not just apps.</h3>
 
 ---
 
@@ -33,6 +35,32 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Project UB
+> Personal AI assistant inspired by JARVIS  
+- Context-aware assistant system  
+- Memory + decision support integration  
+- Designed for daily life automation  
+
+---
+
+### 📊 AI Business System
+> Smart tools for real-world operations  
+- Stock & invoice automation  
+- Data-driven insights  
+- Competitor tracking system  
+
+---
+
+### 🌾 AgriTech Concept
+> AI + weather + hardware integration  
+- Smart farming insights  
+- Sri Lanka-focused solutions  
+- Real-world impact driven  
+
+---
+
 ## 🧩 Tech Stack
 
 ### 🍎 Apple Ecosystem
@@ -56,7 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
 </p>
 
 ### 🎨 Design & 3D
@@ -84,9 +111,14 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saradiyal&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saradiyal&theme=github-dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Saradiyal&show_icons=true&theme=github_dark&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saradiyal&layout=compact&theme=github_dark&hide_border=true&langs_count=6" 
+    height="160"
+  />
 </p>
 
 ---
